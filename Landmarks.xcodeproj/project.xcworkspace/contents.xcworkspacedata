@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:Data.swift">
+   </FileRef>
+   <FileRef
+      location = "group:Landmark.swift">
+   </FileRef>
+   <FileRef
       location = "self:Landmarks.xcodeproj">
    </FileRef>
 </Workspace>
